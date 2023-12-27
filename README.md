@@ -16,10 +16,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khuza1ma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=khuza1ma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 48%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuza1ma&theme=dark&hide_border=false" style="width: 48%;" />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khuza1ma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khuza1ma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+
 
 
 
