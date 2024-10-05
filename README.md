@@ -16,10 +16,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-
-  <img src="https://streak-stats.demolab.com?user=Khuza1ma&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="167" alt="streak graph" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khuza1ma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="languages graph"  /> -->
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=khuza1ma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuza1ma&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+  </p>
 </div>
 
 
